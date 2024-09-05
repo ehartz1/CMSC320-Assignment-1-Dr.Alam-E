@@ -10,8 +10,3 @@ Answer: Yes, I can't think of a field that couldn't benifit from data science.
 having more information on any topic will always be useful. As an example, lets
 say I was making an AI. You will need to sort and use massive amounts of data
 whether thats from the AI's own learning or the data you put into it.
-
-
-Q3: What is the difference between merging and rebasing?
-
-Answer: merging is merging and rebasing is rebasing.
